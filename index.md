@@ -46,5 +46,5 @@ Alliance for Housing Logan is committed to making a difference in Logan, Utah. T
 
 For urgent questions, reach out to Josh: smithtjosh@gmail.com
 
-![Multi-modal sunrise in Logan](/multi-modal_sunrise_landscape.png)
+![Multi-modal sunrise in Logan](/assets/img/multi-modal_sunrise_landscape.png)
 
