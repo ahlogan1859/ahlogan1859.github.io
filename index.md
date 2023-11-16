@@ -2,6 +2,8 @@
 layout: home
 title: Alliance for Housing Logan
 subtitle: Building futures in Logan for all.
+header:
+  image_fullwidth: "assets/img/multi-modal_sunrise_cache_valley.png"
 ---
 
 # Welcome to Alliance for Housing Logan (AHL)
@@ -37,8 +39,6 @@ Have questions or want to get in touch? Email us at [ahlogan1859@gmail.com](mail
 ## Stay Updated
 
 Follow us on our social media channels to get the latest updates on our activities and events.
-
-[Facebook](#) | [Twitter](#) | [Instagram](#)
 
 ---
 
