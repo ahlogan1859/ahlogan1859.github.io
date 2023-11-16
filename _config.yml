@@ -20,6 +20,7 @@ author: Alliance for Housing Logan
 ###############################################
 
 navbar-links:
+  Room for one more: "/room-for-one-more"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
