@@ -3,7 +3,7 @@ layout: home
 title: Alliance for Housing Logan
 subtitle: Building futures in Logan for all.
 header:
-  image_fullwidth: "assets/img/multi-modal_sunrise_cache_valley.png"
+  image_fullwidth: "img/multi-modal_sunrise_cache_valley.png"
 ---
 
 # Welcome to Alliance for Housing Logan (AHL)
