@@ -6,10 +6,6 @@ header:
   image_fullwidth: "img/multi-modal_sunrise_cache_valley.png"
 ---
 
-# Welcome to Alliance for Housing Logan (AHL)
-
-Building futures in Logan for all.
-
 ## Our Mission
 
 AHL is dedicated to advocating for increased housing accessibility and affordability in Logan, Utah. We believe in creating a community where everyone has the opportunity to have a place they can call home.
