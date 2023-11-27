@@ -20,8 +20,9 @@ author: Alliance for Housing Logan
 ###############################################
 
 navbar-links:
-  Room for one more: "/room-for-one-more"
+  Room for One More: "/room-for-one-more"
   Resources:
+    - Urbanism FAQ: "https://www.williamrinehart.com/housing-faq/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Newsletter: "https://ahlogan.substack.com/"
