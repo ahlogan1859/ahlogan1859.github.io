@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Urbanism FAQ: "https://www.williamrinehart.com/housing-faq/"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
   Newsletter: "https://ahlogan.substack.com/"
 
 ################
